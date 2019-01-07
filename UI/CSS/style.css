@@ -381,3 +381,64 @@ img {
 
 
 }
+
+
+
+
+/*delete meetup*/
+
+
+.delete_meetup{
+
+    background: #ffffff;
+    box-sizing: border-box;
+    padding:40px;
+    clear:both;
+    width: 90%;
+    height: 550px;
+
+
+}
+
+.delete_meetup li{
+
+    float: left;
+    padding: 0 20px 0 20px;
+    display: inline;
+
+
+}
+
+
+.delete_meetup #right{
+
+
+    float: left;
+    width:50%;
+}
+
+.delete_meetup  #left{
+
+    float: left;
+    width:70%;
+
+}
+
+/*delete meetup button*/
+
+.button_3 {
+
+    padding: 0.1rem 2rem;
+    border: 0;
+    border: 1px #cccc solid;
+    display: inline-block;
+    border-radius: 50px;
+    text-decoration: none;
+    color: #ff0000;
+
+    transition: background 500ms ease;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  
