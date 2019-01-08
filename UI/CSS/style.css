@@ -292,7 +292,7 @@ img {
     padding:40px;
     clear:both;
     width: 100%;
-    height: 500px;
+    height: 600px;
 }
 
 .meetup_title h3{
@@ -380,27 +380,5 @@ img {
     color:#ffffff;
 
 
-}
-
-
-/*create meetup */
-
-.create-form{
-    background: #ccc;
-
-    box-sizing: border-box;
-    padding:40px;
-    clear:both;
-    width: 100%;
-    height: 550px;
-
-
-}
-
-.create-form h1{
-
-    color: black;
-    text-transform: uppercase;
-    
 }
 
