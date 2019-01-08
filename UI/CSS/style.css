@@ -403,3 +403,70 @@ img {
     text-transform: uppercase;
     
 }
+
+
+/*Questions */
+
+
+.questions{
+
+    width: 650px;
+    margin-left: 100px;
+    overflow: hidden;
+
+
+}
+.user_questions{
+
+    background: #ffffff;
+    box-sizing: border-box;
+    padding:40px;
+    clear:both;
+    width: 90%;
+    height: 400px;
+
+}
+
+
+.questions  h1{
+    float:left;
+  }
+  
+  .questions  h2{
+    float:left;
+  }
+
+  .questions form {
+    float:left;
+    margin-top:15px;
+  }
+  
+  .questions input[type="email"]{
+    padding:4px;
+    height:30px;
+    width:580px;
+  }
+  
+/*Questions*/
+
+.meetup{
+  
+    width: 550px;
+    margin-left: 150px;
+    overflow: hidden;
+}
+
+
+
+/*rounded area for comments */
+
+.rounded {
+    border-radius: 25px;
+    background: #ffff;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+  }
+  
+  
+
