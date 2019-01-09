@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
 
 
@@ -228,6 +227,7 @@ footer{
     width: 100%;
     height: 600px;
 
+
 }
 
 /*Sign up and login button classes */
@@ -292,7 +292,7 @@ img {
     padding:40px;
     clear:both;
     width: 100%;
-    height: 600px;
+    height: 500px;
 }
 
 .meetup_title h3{
@@ -383,58 +383,58 @@ img {
 }
 
 
+/*create meetup */
 
-/*delete meetup*/
+.create-form{
+    background: #ccc;
 
-.delete_meetup{
+    box-sizing: border-box;
+    padding:40px;
+    clear:both;
+    width: 100%;
+    height: 550px;
+
+
+}
+
+.create-form h1{
+
+    color: black;
+    text-transform: uppercase;
+    
+}
+
+
+/*Questions */
+
+
+.questions{
+
+    width: 650px;
+    margin-left: 100px;
+    overflow: hidden;
+
+
+}
+.user_questions{
 
     background: #ffffff;
     box-sizing: border-box;
     padding:40px;
     clear:both;
     width: 90%;
-    height: 550px;
-
-}
-
-.delete_meetup li{
-
-    float: left;
-    padding: 0 20px 0 20px;
-    display: inline;
-
+    height: 400px;
 
 }
 
 
-.delete_meetup #right{
-
-
-    float: left;
-    width:50%;
-}
-
-.delete_meetup  #left{
-
-    float: left;
-    width:70%;
-
-}
-
-/*delete meetup button*/
-
-.button_3 {
-
-    padding: 0.1rem 2rem;
-    border: 0;
-    border: 1px #cccc solid;
-    display: inline-block;
-    border-radius: 50px;
-    text-decoration: none;
-    color: #ff0000;
-    transition: background 500ms ease;
-    padding-left: 50px;
-    padding-right: 50px;
+.questions  h1{
+    float:left;
+  }
+  
+  .questions  h2{
+    float:left;
   }
 
+  .questions form {
   
