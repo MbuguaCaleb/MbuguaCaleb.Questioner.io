@@ -442,6 +442,20 @@ img {
 }
 
 
+.user_questionspage{
+
+
+    background: #ffffff;
+    box-sizing: border-box;
+    padding:40px;
+    clear:both;
+    width: 90%;
+    height: 200px;
+
+
+}
+
+
 .questions  h1{
     float:left;
   }
